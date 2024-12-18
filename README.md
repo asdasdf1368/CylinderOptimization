@@ -1,2 +1,2 @@
 # CylinderOptimization
-Bad Manim code, probably don't use. :)
+Bad Manim code, probably don't use :)
